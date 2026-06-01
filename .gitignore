@@ -1,0 +1,24 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Raw / intermediate data (large, unprocessed)
+data/
+merged_data/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Pics (local figures, not part of public documentation)
+pics/
