@@ -297,17 +297,6 @@ exact numbers may vary slightly between runs.
 
 ---
 
-## Future Work
-
-- Ship a `requirements.txt` / environment lock and a fixed random seed.
-- Move the regime-aware loss and the regime-probability generator out of the
-  notebook into versioned source modules.
-- Add a non-notebook CLI entry point for training and inference.
-- Document and persist the exact hyperparameters bundled with the released
-  weights.
-
----
-
 ## Contributors
 
 **Repository owner:** Giorgio Cottini
